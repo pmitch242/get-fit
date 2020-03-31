@@ -3,7 +3,7 @@ Get Fit is a simple workout tracker. The front end code was provided to me. For 
 
 
 ## Preview
-<img alt="Get Fit Preview" src="public/assets/images/preview.png">  
+<img alt="Get Fit Preview" src="public/assets/images/preview.PNG">  
 
 ## Usage
 
