@@ -3,11 +3,11 @@ Get Fit is a simple workout tracker. The front end code was provided to me. For 
 
 
 ## Preview
-<img alt="Get Fit Preview" src="public/assets/images/preview.PNG">  
+<img alt="Get Fit Preview" src="public/images/preview.PNG">  
 
 ## Usage
 
-Link:
+Link: https://shielded-ravine-62100.herokuapp.com/
 
 ## Credits
 Johns Hopkins full-Stack Bootcamp
